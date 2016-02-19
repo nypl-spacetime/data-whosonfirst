@@ -1,0 +1,12 @@
+
+{
+  "id": "whosonfirst",
+  "title": "Who's On First",
+  "license": "https://github.com/whosonfirst/whosonfirst-data/blob/master/LICENSE.md",
+  "description": "Who's On First is a gazetteer of places. Not quite all the places in the world but a whole lot of them and, we hope, the kinds of places that we mostly share in common.",
+  "author": "Mapzen",
+  "website": "https://whosonfirst.mapzen.com/",
+  "edits": "",
+  "editor": "Histograph",
+  "creationDate": ""
+}
